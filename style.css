@@ -72,8 +72,8 @@ body {
     align-items: flex-start;
     background-color: var(--background-color);
 
-    line-height: 1.4;
-    padding: 8% 25% 2%;
+    line-height: 1.8;
+    padding: 2% 25% 2%;
 }
 
 h1 {
